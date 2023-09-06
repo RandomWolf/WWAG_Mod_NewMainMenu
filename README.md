@@ -4,7 +4,7 @@ This is the first modification to the game Wizard With a Gun (Demo)
 It replaces the standard sitting-on-a-log start menu with an animation I found in the files.
 
 ## Installation
-# Installing BepInEx
+### Installing BepInEx
 1. Download the BepInEx ZIP File from the official BepInEx repository. I have used version 5.4.21 found [here](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)
 2. Use the version that is right for you. In most cases, this should be `BepInEx_x64_5.4.21.0.zip`
 3. Extract the BepInEx ZIP File into the games "root" folder
@@ -13,7 +13,7 @@ It replaces the standard sitting-on-a-log start menu with an animation I found i
 4. Run the game with BepInEx Installed atleast once. This will generate needed Config files and folders in your WWAG Game directory
 5. Close the game
 
-# Installing the mod
+### Installing the mod
 1. Download the latest release of the mod found [here](https://github.com/RandomWolf/WWAG_Mod_NewMainMenu/releases/tag/Release)
 2. Extract the Contents of the ZIP file into `Wizard with a Gun Demo\BepInEx\plugins\WWAG_NewIntro.dll`
 
